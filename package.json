@@ -1,0 +1,28 @@
+{
+	"name": "youtube-backend-project",
+	"version": "1.0.0",
+	"description": "This is simple youtube backend capstone project from almabetter",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"start": "node ./src/index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"author": "Gagandeep Singh",
+	"license": "ISC",
+	"bugs": {
+		"url": ""
+	},
+	"homepage": "",
+	"devDependencies": {
+		"nodemon": "^3.0.2"
+	},
+	"dependencies": {
+		"dotenv": "^16.3.1",
+		"express": "^4.18.2",
+		"mongoose": "^8.0.4"
+	}
+}
